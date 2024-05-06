@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IMSE255FinalProject/1.0.0": {
+        "runtime": {
+          "IMSE255FinalProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMSE255FinalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
